@@ -13,17 +13,8 @@ body {
 
 }
 
-img {
-    height: 250px;
-    width: 250px;
-    border-radius: 16px;
-    margin: 16px;
-}
-
 #date {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
-    padding: 16px;
-    border: 1px solid white;
     margin: 16px;
 }

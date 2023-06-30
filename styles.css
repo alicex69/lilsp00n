@@ -1,6 +1,13 @@
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#f8f, #88f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 body {
-    background-color: rgb(69, 10, 10);
-    color: #f3cccc;
+    background-color: black;
+    color: white;
 
 }
 

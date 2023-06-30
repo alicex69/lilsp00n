@@ -1,5 +1,7 @@
 h1 {
   font-size: 72px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1rem;
   background: -webkit-linear-gradient(#f8f, #88f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

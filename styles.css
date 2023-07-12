@@ -1,12 +1,12 @@
 h1 {
-  font-size: 72px;
-  font-weight: 200;
-  text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin: 1rem;
-  background: -webkit-linear-gradient(#f8f, #88f);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    font-size: 72px;
+    font-weight: 200;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1rem;
+    background: -webkit-linear-gradient(#f8f, #88f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 body {

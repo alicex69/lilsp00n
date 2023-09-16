@@ -5,6 +5,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 1rem;
     background: -webkit-linear-gradient(#f8f, #88f);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -46,7 +47,6 @@ a {
   -webkit-user-select: none;
   touch-action: manipulation;
 }
-
 .button-85:before {
   content: "";
   background: linear-gradient(

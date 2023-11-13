@@ -1,5 +1,5 @@
 function playMusic() {
-    var music = new Audio('/static/imastar.mp3');
+    var music = new Audio('/static/behumb.ogg');
     music.play();
 }
   
